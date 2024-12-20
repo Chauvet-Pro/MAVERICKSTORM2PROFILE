@@ -2,6 +2,11 @@
 
 ## Software Versions
 
+[V1.24020 - Maverick Storm 2 Profile](https://github.com/Chauvet-Pro/MAVERICKSTORM2PROFILE/blob/0cc18e1001102225071e2481609de13c2aad61c4/firmware/V1.24020.zip)
+- Changed control channel value for the TV fan modes
+     * 216-217 = TV25
+     * 218-220 = TV35
+
 [V1.230713 - Maverick Storm 2 Profile](https://github.com/Chauvet-Pro/MAVERICKSTORM2PROFILE/blob/3df22259fc6231250e255a454cc6aad7fc625cd4/firmware/V1.230713.zip)
 - Updated the CMY function to match the MK3 Profile
 
