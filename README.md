@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.250116 - Maverick Storm 2 Profile](https://github.com/Chauvet-Pro/MAVERICKSTORM2PROFILE/blob/9b65bb466937cc9eba36c6cc40b5f3934e229541/firmware/V1.250116.zip)
+- Improve control of motor code, as there is some tolerance of the motors for prism rotation, in which there will be some noise when the prism is rotating at certain DMX values
+
 [V1.24020 - Maverick Storm 2 Profile](https://github.com/Chauvet-Pro/MAVERICKSTORM2PROFILE/blob/0cc18e1001102225071e2481609de13c2aad61c4/firmware/V1.24020.zip)
 - Changed control channel value for the TV fan modes
      * 216-217 = TV25
