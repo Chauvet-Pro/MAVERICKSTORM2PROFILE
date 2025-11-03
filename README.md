@@ -2,6 +2,10 @@
 
 ## Software Versions
 
+[V1.250407 - Maverick Storm 2 Profile](https://github.com/Chauvet-Pro/MAVERICKSTORM2PROFILE/blob/27112430e25c08af4e80e87679493735e8bbb173/firmware/V1.250407.zip)
+- Fix RDM failures
+- Fix a USB bug error that will show up every now and then, even when no USB is plugged in.
+
 [V1.250116 - Maverick Storm 2 Profile](https://github.com/Chauvet-Pro/MAVERICKSTORM2PROFILE/blob/9b65bb466937cc9eba36c6cc40b5f3934e229541/firmware/V1.250116.zip)
 - Improve control of motor code, as there is some tolerance of the motors for prism rotation, in which there will be some noise when the prism is rotating at certain DMX values
 
